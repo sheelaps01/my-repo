@@ -11,10 +11,11 @@ How I use AI to generate articles, blogs, and marketing copy:
 - **Templates** – prompts for blog ideas, headlines, social posts  
 - **Workflows** – tools & processes for rapid ideation and polishing
   # AI Workflow Automation Using Integrately #
+  Here is a simple automation using Integrately AI. Integrately provide a wide variety of pre-built and customized automation for a variety of day-to-day tasks. As a doc manager, here are a few challenges I have tried to automate using Integrately.
  # Automation for Acronym checks #
-  Here is a simple automation using Integrately AI. Integrately provide a wide variety of pre-built automation tools.
   I have created a simple automation to notify the team about acronyms check.
   - When a team of writers are working on a project, it becomes easier to have a check whenever there are acronyms to be used. In this automation, The lead writer updates the googlesheet with any new or updated acronyms. This triggers a draft in the leads' mailbox. The lead can review and hit the send button.
+![Alt text] (https://github.com/sheelaps01/my-repo/blob/main/projects/images/AcronymCheckWFintegrately.png?raw=true)
   # Automation for Release Notes #
   - We can further enhance this automation by adding chatgpt prompt to add and email template and write a mail and also automatically send the mail to the team every Mondays.
   Similarly, you can:
