@@ -14,6 +14,7 @@ Below are sample sections you can expand:
 - **Tips & Workflows** – chaining, temperature control, iterative design
 ## Prompt Library
 
+I have explored different prompt types here.
 
 
 ## Human In the Loop
