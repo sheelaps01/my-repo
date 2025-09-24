@@ -1,0 +1,10 @@
+title: "Sheela's AI Projects"
+description: "Portfolio of AI Prompt, Image/Video, and Content experiments"
+url: "https://sheelaps01.github.io"    # Your GitHub Pages URL
+baseurl: "/my-repo"                    # the repo name, leave empty "" if using username.github.io
+theme: minima                          # built-in theme
+markdown: kramdown
+permalink: pretty
+
+# optional
+author: Sheela
