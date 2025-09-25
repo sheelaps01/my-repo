@@ -16,10 +16,10 @@ How I use AI to generate articles, blogs, and marketing copy:
 I have created a simple automation to notify the team about acronym checks. This step becomes extremely important when a team of writers is producing content, as we need everyone to adhere to the standards. Having this simple automation eliminates a lot of overhead for peer reviewers.
 
 In this automation, the lead writer updates the Google Sheet with any new or modified acronyms. This action triggers a draft email in the lead’s mailbox, which they can quickly review and send.
-![Acronym Check](images/AcronymCheckWFintegrately.png)
+![Acronym Check](AcronymCheckWFintegrately.png)
 
 You can see that a draft email is triggered. The lead can then add additional instructions before sending it to the team. This step can also be skipped by triggering an email to the team directly. 
-![Automated Mail for Acronym Check](images/AcronymCheck-mails.png)
+![Automated Mail for Acronym Check](AcronymCheck-mails.png)
 
   # Automation for Release Notes #
   - We can further enhance this automation by adding a ChatGPT prompt to generate an email template, draft the message, and automatically send it to the team every Monday.
