@@ -26,6 +26,6 @@ You can see that a draft email is triggered. The lead can then add additional in
   Similarly, you can:
 - Create a Google Sheet and share it with the engineering teams to add release notes content. Set up a trigger (two days before the release) to send you an automated draft, which you can edit and then publish.
 - You can set this up for internal reviews or approvals as well
-  # Release Specific Updates to the team from various meetings #
+  ** Release Specific Updates to the team from various meetings **
   - I have faced this problem in most projects where, as a documentation lead, I attended various meetings with stakeholders — grooming sessions, 3 Amigos, project lead meetings, TAC meetings, TME meetings, and so on. Of course, AI can summarize every meeting, but I always prefer to share only the necessary conversations with my team. I am confident that I can consolidate the key points from different meetings and send them as an email summary to my team.
   To summarize, there are many opportunities to automate mundane tasks within the team. Tools such as Integrately AI, n8n, or Make.com provide effective ways to build the necessary automations.
