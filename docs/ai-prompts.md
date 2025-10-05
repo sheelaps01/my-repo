@@ -9,12 +9,14 @@ I experiment with prompt engineering for models like ChatGPT, Claude, and LLaMA.
 Below are sample sections you can expand:
 
 - **Prompt Library** – snippets for summarization, Q&A, code helpers
-- **Human in the Loop** - Befaor and after with human review and why it is important
+- **Human in the Loop** - Before and after with human review and why it is important
 - **Case Studies** – before/after outputs, prompt tuning notes  
 - **Tips & Workflows** – chaining, temperature control, iterative design
+-
 ## Prompt Library
 
-I have explored different prompt types here.
+I decided to learn prompting the fun way. Created a simple prompt in lovable to creat a "Prmopt Master" Quizz. I have hosted the quiz here on Git.
+
 
 
 ## Human In the Loop
